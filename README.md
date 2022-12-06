@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <p>Affronte mon regard</p>
-  <img src="https://user-images.githubusercontent.com/65296828/205960875-73eacc87-3cb5-488d-834e-84ebf196bc22.png" width="100"/>
+  <p>Affronte mon regard</p><img src="https://user-images.githubusercontent.com/65296828/205960875-73eacc87-3cb5-488d-834e-84ebf196bc22.png" width="100"/>
 </div>
 
 
